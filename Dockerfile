@@ -1,6 +1,6 @@
 FROM n8nio/n8n:1.51.2
 
-ARG N8N_VERSION=0.228.2
+ARG N8N_VERSION=1.51.2
 
 RUN apk add --update graphicsmagick tzdata
 
